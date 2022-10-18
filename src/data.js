@@ -20,7 +20,7 @@ const data = {
             price: 100,
             brand: 'Molo',
             rating:4.5,
-            numReviews:10,
+            numReviews:11,
             description:'high wuality product'
         },
         {
@@ -31,7 +31,7 @@ const data = {
             price: 110,
             brand: 'Molo',
             rating:4.5,
-            numReviews:10,
+            numReviews:12,
             description:'high wuality product'
         },
         {
@@ -42,7 +42,7 @@ const data = {
             price: 90,
             brand: 'Molo',
             rating:4.5,
-            numReviews:10,
+            numReviews:13,
             description:'high wuality product'
         },
         {
@@ -53,7 +53,7 @@ const data = {
             price: 150,
             brand: 'Molo',
             rating:4.5,
-            numReviews:10,
+            numReviews:14,
             description:'high wuality product'
         },
         {
@@ -64,7 +64,7 @@ const data = {
             price: 100,
             brand: 'Molo',
             rating:4.5,
-            numReviews:10,
+            numReviews:15,
             description:'high wuality product'
         },
         {
@@ -75,7 +75,7 @@ const data = {
             price: 99,
             brand: 'Molo',
             rating:4.5,
-            numReviews:10,
+            numReviews:16,
             description:'high wuality product'
         },
         
